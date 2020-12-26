@@ -1,4 +1,4 @@
-class APIManager {
+export default class APIManager {
     constructor() {
         this.data = {}
     }
